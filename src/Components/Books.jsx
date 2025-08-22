@@ -37,6 +37,7 @@ function Books() {
                                 <span className="book-author">by {data.author}</span>
                                 <span className="book-isbn">ISBN: {data.isbn}</span>
                             </div>
+                            {/* dhruvi */}
 
                             <div className="book-footer">
                                 <div className="rent">
